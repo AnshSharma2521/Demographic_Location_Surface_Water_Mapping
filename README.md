@@ -105,10 +105,10 @@ The performance of the Neural Networks was severely subpar, either as a result o
 
 ## Contributors
 
+- Ansh Sharma
 - Abhishek Rajput
-- Arnav Jain
-- Atul Goyal
-- Janmejay Pandya
+
+
 
 
 
